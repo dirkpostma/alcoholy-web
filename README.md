@@ -19,5 +19,4 @@ Personal side project to learn:
 
 This project uses [Playwright](https://playwright.dev/) for E2E testing.
 
-- make sure webserver is running, `yarn dev`
-- run `yarn test` to execute tests
+Run `yarn test` to execute tests. Webserver is started automatically, if needed.
